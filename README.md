@@ -33,6 +33,6 @@ c15412/Cealing-Host (部分规则添加多 ip 优选功能): [https://github.com
 
 ## 联系方式
 1. **邮箱: a1365288643@163.com**
-2. **Issues
+2. **Issues**
 
 •ᴗ•
