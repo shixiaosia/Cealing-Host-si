@@ -14,8 +14,8 @@
 3. 本项目非常欢迎大家贡献自己的伪造规则，欢迎提交 PR，Issue，也欢迎通过私信告诉我
 
 ## 文件地址
-1. Cealing Host (内置规则): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json))
-2. Cealing Host R (Rutube 视频资源规则): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json))
+1. Cealing Host (内置规则): [[https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json](https://github.com/shixiaosia/Cealing-Host-si/blob/main/Cealing-Host.json)]
+2. Cealing Host R (Rutube 视频资源规则): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json)
 
 > [Cealing Host A](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-A.json) 和 [Cealing Host P](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json) 已弃用，不再维护
 
@@ -32,8 +32,7 @@ c15412/Cealing-Host (部分规则添加多 ip 优选功能): [https://github.com
 **Space Time**
 
 ## 联系方式
-1. **QQ 群 (主群): 716266896，338919498**
-2. TG 群 (分群): [PixCealerChat](https://t.me/PixCealerChat)
-3. **邮箱: Zeus6_6@163.com**
+1. **邮箱: a1365288643@163.com**
+2. **Issues
 
 •ᴗ•
