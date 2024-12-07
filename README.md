@@ -15,7 +15,7 @@
 
 ## 文件地址
 1. Cealing Host (内置规则): [https://github.com/shixiaosia/Cealing-Host/raw/main/Cealing-Host.json](https://github.com/shixiaosia/Cealing-Host-si/blob/main/Cealing-Host.json)]
-2. Cealing Host R (Rutube 视频资源规则): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json)
+2. Cealing Host R (Rutube 视频资源规则 我用不到 所以不维护也不跟进更新): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-R.json)
 
 > [Cealing Host A](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-A.json) 和 [Cealing Host P](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json) 已弃用，不再维护
 
