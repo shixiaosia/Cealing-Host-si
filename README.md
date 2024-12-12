@@ -3,7 +3,7 @@
 </br>
 
 ## 自我介绍
-**Cealing Host 存储库**: 个人维护的 Sheas Cealer 内置伪造规则 添加我自己能用到的网站，不包都能用
+**Cealing Host 存储库**: 个人维护的 Sheas Cealer 伪造规则 不定时同步并添加我自己能用到的网站，不包都能用
 
 ## 词汇解释
 **[Sheas Cealer Dictionary](https://github.com/SpaceTimee/Sheas-Cealer/wiki/Sheas-Cealer-Dictionary)**
